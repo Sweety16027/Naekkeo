@@ -34,7 +34,7 @@ margin-bottom:15px;
 p{
 font-size:18px;
 line-height:1.7;
-color:#ddd;
+color:#ddd; 
 margin-bottom:20px;
 }
 
@@ -126,9 +126,9 @@ Every time this song plays...<br>
 I think of you. ❤️
 </p>
 
-<button onclick="window.open('https://www.youtube.com/watch?v=LWYikVCSbAk','_blank')">
-🎵 Play Thangame ❤️
-</button>
+<a href="https://www.youtube.com/results?search_query=Thangame+Thangame+Veeram+Official" target="_blank">
+<button>🎵 Play Thangame ❤️</button>
+</a>
 
 </div>
 
